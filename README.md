@@ -4,7 +4,7 @@
 
 <h2>Architecture Overview</h2>
 <div align="center">
-  <img src="./splunk-AD.png" alt="Splunk and Active Directory Integration with Suricata IDS" />
+  <img src="./Splunk-AD-monitoring.png" alt="Splunk and Active Directory Integration with Suricata IDS" />
 </div>
 
 <h2>Workflow</h2>
